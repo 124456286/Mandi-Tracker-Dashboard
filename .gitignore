@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+# Local/runtime data (do not commit databases or uploaded documents)
+*.db
+*.db-*
+uploads/
+settings.json
+*_export.xlsx
+daily_*.xlsx
+*_report.pdf
+mandi_backup_profile_*.zip
